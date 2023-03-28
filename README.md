@@ -1,2 +1,4 @@
-# digest-africa.com
-dashboard
+# React Admin Dashboard
+
+Completed React Admin Dashboard Repo
+
